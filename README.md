@@ -1,4 +1,17 @@
-## Olá!! Me chamo Renan Fachin
+### Hi there, I'm Renan Fachin
+
+#### About
+I am a civil engineer and currently learning new technologies
+#
+
+#### Current Stack
+  - Main Languague: `Javascript`
+  - Front-end: `HTML5`, `CSS3`, `Javascript`
+  - Layout-Design: `Figma`
+  - Version code control: `Git` and `Github`
+  - Tools: `VsCode`
+#
+</br>
 
 <div align="center">
   <a href="https://github.com/RenanFachin">
