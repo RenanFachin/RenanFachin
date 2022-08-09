@@ -5,8 +5,8 @@ I am a civil engineer and currently learning new technologies
 #
 
 #### Current Stack
-  - Main Languague: `Javascript`
-  - Front-end: `HTML5`, `CSS3`, `Javascript`
+  - Currently studying: `Javacript` and `ReactJS`
+  - Front-end: `HTML5`, `CSS3`, `Javascript`, `ReactJS`
   - Layout-Design: `Figma`
   - Version code control: `Git` and `Github`
   - Tools: `VsCode`
@@ -23,9 +23,10 @@ I am a civil engineer and currently learning new technologies
 </br>
 
 <div align="center">
-  <img align="center" alt="Renan-Js" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Renan-HTML" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Renan-CSS" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Renan-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Renan-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Renan-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Renan-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
 #
