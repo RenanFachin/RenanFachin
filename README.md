@@ -1,7 +1,7 @@
 ### Hi there, I'm Renan Fachin
 
 #### About
-I am a civil engineer and currently learning new technologies
+I am a civil engineer and currently learning new technologies at @Rocketseat
 #
 
 #### Current Stack
