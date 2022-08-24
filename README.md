@@ -2,6 +2,13 @@
 
 #### About
 I am a civil engineer and currently learning new technologies at @Rocketseat
+
+</br>
+<div align="center">
+  <a href="https://instagram.com/#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23fad0c4?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 #
 
 #### Current Stack
@@ -29,13 +36,12 @@ I am a civil engineer and currently learning new technologies at @Rocketseat
   <img align="center" alt="Renan-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
-
 #
-</br>
 
-<div align="center">
-  <a href="https://instagram.com/#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23fad0c4?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+#### Project legend
+  - `PA` = Projetos autorais
+  - `PD` = Projetos Diversos
+  - `RS` = Projetos realizados durante as aulas da rocketseat
+  - `LP` = LandingPage
+  - `FO` = Formulários
 
-#
