@@ -44,4 +44,5 @@ I am a civil engineer and currently learning new technologies at @Rocketseat
   - `RS` = Projetos realizados durante as aulas da rocketseat
   - `LP` = LandingPage
   - `FO` = Formulários
+  - `RS_CR` = Classroom do programa explorer da rocketseat (estudos de temas específicos)
 
