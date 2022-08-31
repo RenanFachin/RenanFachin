@@ -14,6 +14,8 @@ I am a civil engineer and currently learning new technologies at @Rocketseat
 #### Current Stack
   - Currently studying: `Javacript` and `ReactJS`
   - Front-end: `HTML5`, `CSS3`, `Javascript`, `ReactJS`
+  - Back-end: `NodeJS`
+  - Banco de dados: `Sqlite`
   - Layout-Design: `Figma`
   - Version code control: `Git` and `Github`
   - Tools: `VsCode`
