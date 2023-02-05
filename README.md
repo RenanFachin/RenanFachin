@@ -1,19 +1,24 @@
 ### Hi there, I'm Renan Fachin
 
 #### About
-I am a civil engineer and currently learning new technologies at @Rocketseat
+- 🧠 I am a civil engineer and currently learning new technologies at @Rocketseat.
+
+- ⚡ Currently studying ReactJS, Typescript, nodeJS and also studying software analysis and development with an emphasis on full-stack and mobile development at PUC-RS.
+
+- ▶️ access my portfolio here: [Portfolio - Renan Fachin]([https://youtube.com/maykbrito](https://renanfachindev.vercel.app/))
+
 
 </br>
 <div align="center">
-  <a href="https://instagram.com/#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23fad0c4?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/renan_fachin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23fad0c4?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/renan-fachin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 #
 
 #### Current Stack
-  - Currently studying: `Javacript` and `ReactJS`
-  - Front-end: `HTML5`, `CSS3`, `Javascript`, `ReactJS`
+  - Currently studying: `Typescript`, `ReactJS` and `NodeJS`
+  - Front-end: `HTML5`, `CSS3`, `Javascript`, `Typescript`, `ReactJS`
   - Back-end: `NodeJS`
   - Banco de dados: `Sqlite`
   - Layout-Design: `Figma`
