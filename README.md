@@ -5,7 +5,7 @@
 
 - ⚡ Currently studying ReactJS, Typescript, nodeJS and also studying software analysis and development with an emphasis on full-stack and mobile development at PUC-RS.
 
-- ▶️ access my portfolio here: [Portfolio - Renan Fachin]([https://youtube.com/maykbrito](https://renanfachindev.vercel.app/))
+- ▶️ access my portfolio here: [Portfolio - Renan Fachin](https://renanfachindev.vercel.app/)
 
 
 </br>
