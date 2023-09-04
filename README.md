@@ -1,7 +1,7 @@
 ### Hi there, I'm Renan Fachin
 
 #### About
-- 🧠 I am a civil engineer and currently learning new technologies at @Rocketseat.
+- 🧠 I am a civil engineer and currently learning new technologies at @Rocketseat and PUC-RS.
 
 - ⚡ Currently studying ReactJS, Typescript, nodeJS and also studying software analysis and development with an emphasis on full-stack and mobile development at PUC-RS.
 
@@ -18,9 +18,9 @@
 
 #### Current Stack
   - Currently studying: `Typescript`, `ReactJS` and `NodeJS`
-  - Front-end: `HTML5`, `CSS3`, `Javascript`, `Typescript`, `ReactJS`
+  - Front-end: `HTML5`, `CSS3`, `Javascript`, `Typescript`, `ReactJS`, `TailwindCSS`, `StyledComponents`
   - Back-end: `NodeJS`
-  - Banco de dados: `Sqlite`
+  - Banco de dados: `Sqlite`, `docker`, `postgresql`
   - Layout-Design: `Figma`
   - Version code control: `Git` and `Github`
   - Tools: `VsCode`
@@ -34,16 +34,6 @@
 </div>
 
 #
-</br>
-
-<div align="center">
-  <img align="center" alt="JS" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
-  <img align="center" alt="Renan-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Renan-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Renan-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
-
-#
 
 #### Project legend
   - `PA` = Projetos autorais
@@ -52,4 +42,5 @@
   - `LP` = LandingPage
   - `FO` = Formulários
   - `RS_CR` = Classroom do programa explorer da rocketseat (estudos de temas específicos)
+  - `PUC` = Projetos criados durante o curso de Análise e desenvolvimento de Sistemas
 
