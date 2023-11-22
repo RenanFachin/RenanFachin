@@ -6,7 +6,7 @@
 - 🏦 I'm from Porto Alegre/RS and currently living in São Paulo/SP
 - 🎓 I am a civil engineer and systems analysis and development student: full-stack at PUC-RS
 - ⚡ Currently studying ReactJS, Typescript, NodeJS.
-- ▶️ access my portfolio here: [Portfolio - Renan Fachin](https://renanfachindev.vercel.app/)
+- ▶️ access my portfolio here: [Portfolio - Renan Fachin](https://renanfachin.vercel.app/)
 
 
 #
