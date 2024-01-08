@@ -54,7 +54,7 @@ Colaborei com clientes para entender suas necessidades, criei interfaces com o f
 [**PUC-RS**](https://online.pucrs.br/graduacao/analise-desenvolvimento-sistemas-full-stack-mobile) \
 A programação tem como ênfase o desenvolvimento de sistemas corporativos utilizando as plataformas Web Full-Stack e Mobile – ferramentas que contemplam as tecnologias mais avançadas e indicadas para o atual cenário do segmento.
 
-[<img align="left" height="94px" width="94px" alt="rocketseat" src="https://www.rocketseat.com.br/_next/static/media/rocketseat-logo.9582f883.svg"/>](https://www.rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="rocketseat" src="https://www.rocketseat.com.br/_next/static/media/rocketseat.7f71b116.svg"/>](https://www.rocketseat.com.br/)
 **Full-Stack Developer** \
 [**Rocketseat**](https://www.rocketseat.com.br/) \
 Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React.js`, `TypeScript`,  `NextJS`, `Tailwindcss`, `StyledComponent`
