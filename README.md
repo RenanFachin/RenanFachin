@@ -40,12 +40,6 @@
 ### Entre em contato comigo:
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/renan-fachin/)
 
-#### Experiência Profissional:
-**Front-end Developer** \
-[**Freelance**] • Freelance \
-Como desenvolvedor front-end freelancer, trabalhei em projetos diversos, utilizando tecnologias como HTML, CSS, JavaScript, Typescript, TailwindCSS e frameworks como ReactJS. 
-Colaborei com clientes para entender suas necessidades, criei interfaces com o figma e otimizei a experiência do usuário. Entreguei soluções de alta qualidade, resultando em feedbacks positivos e satisfação do cliente.
-
 ##
 
 #### Formação Acadêmica:
